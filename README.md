@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Emili Tabuti.
 
-<!--
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilitabuti&layout=compact)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilitabuti&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Emili-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
